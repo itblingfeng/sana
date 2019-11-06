@@ -158,4 +158,3 @@ public class ProtostuffSerialize implements Serialize {
 
 ![Alt text](https://github.com/itblingfeng/img-folder/blob/master/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-06-17%20%E4%B8%8B%E5%8D%8811.23.46.png)
 ![Alt text](https://github.com/itblingfeng/img-folder/blob/master/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-06-17%20%E4%B8%8B%E5%8D%8811.23.58.png)
-
